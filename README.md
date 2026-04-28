@@ -1,6 +1,6 @@
 # React Navigation Mastery 🚀
 
-## 🇺English Version
+## English Version
 
 This practical project was developed to consolidate the fundamentals of navigation in Single Page Applications (SPA) using the latest version of **React Router (v7)**.
 
